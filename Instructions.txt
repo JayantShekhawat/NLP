@@ -1,0 +1,7 @@
+Instructions:
+
+1. Approach: The approach was to first finely mine all the text and title of the 101 articles in a JSON file as a JSON is better suited for NLP tasks. After that NLP tasks were completed using the nltk module. Each factor and variable was taken care of in a loop which ran for each article text and saved the variables directly in the provided 'Output Data Structure.xlsx' , also output is displayed with the title of each article with the variables and their values along it. 
+
+2. How to run the .py file: Run the .py file in VSCode, make sure to edit the path of the files being used in the program according to your directories.
+
+3. Dependencies: None. If your VSCode environment has all required modules already installed then the program will run smoothly. Data Extraction may take 2-3 minutes, the NLP completes in seconds.   
